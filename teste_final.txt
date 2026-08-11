@@ -1,0 +1,13 @@
+Relatório de Vendas - Janeiro 2024
+
+Produtos vendidos:
+- Mouse: 150 unidades
+- Teclado: 100 unidades
+- Monitor: 50 unidades
+
+Total de vendas: R$ 25.000,00
+Produto mais vendido: Mouse
+
+Faturamento por categoria:
+- Periféricos: R$ 15.000,00
+- Monitores: R$ 10.000,00
