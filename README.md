@@ -69,4 +69,35 @@ Sistema de Chat com Documentos usando **RAG (Retrieval-Augmented Generation)** c
 
 ---
 
+##  Como Executar o Projeto
+
+###  Pré-requisitos
+
+- **Python 3.8 ou superior**
+- **Ollama** instalado
+- **Git** (opcional)
+
+---
+
+###  Passo a Passo para Windows
+
+#### Instalar o Ollama
+
+```bash
+# Baixe o instalador do Ollama para Windows
+# https://ollama.ai/download/windows
+
+# Após instalar, o Ollama estará em:
+# C:\Users\SEU_USUARIO\AppData\Local\Programs\Ollama\ollama.exe
+
+# Criar ambiente virtual
+python -m venv .venv
+
+# Ativar ambiente virtual
+.venv\Scripts\activate
+
+# Instalar as dependências
+
+#Configurar as variáveis de ambiente
+
 
