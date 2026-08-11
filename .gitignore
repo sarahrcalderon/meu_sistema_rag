@@ -1,0 +1,80 @@
+# .gitignore - Versão Simplificada
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+env/
+.venv/
+ENV/
+*.log
+
+# Dados
+*.db
+*.sqlite
+*.sqlite3
+dados/
+chroma_db/
+documentos/
+
+# Configurações sensíveis
+.env
+.env.local
+*.key
+*.pem
+secrets/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Testes
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+
+# Logs
+logs/
+*.log
+
+# Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.backup
+*.cache
+
+# Modelos
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.pb
+*.onnx
+
+# Grandes
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.iso
+*.img
