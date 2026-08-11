@@ -28,11 +28,11 @@ class Config:
     TAMANHO_EMBEDDING: int = 384
 
     TAMANHO_CHUNK: int = int(os.getenv('TAMANHO_CHUNK', 500))
-    TOP_K_PADRAO: int = int(os.getenv('TOP_K_PADRAO', 3))  # <-- Reduzido para 3
+    TOP_K_PADRAO: int = int(os.getenv('TOP_K_PADRAO', 3))  
     MAX_CHUNKS_CONTEXTO: int = 3
 
     TEMPERATURA: float = float(os.getenv('TEMPERATURA', 0.3))
-    MAX_TOKENS: int = int(os.getenv('MAX_TOKENS', 1000))  # <-- Aumentado
+    MAX_TOKENS: int = int(os.getenv('MAX_TOKENS', 1000)) 
     TIMEOUT: int = 120
     
     NIVEL_LOG: str = os.getenv('NIVEL_LOG', 'INFO')
