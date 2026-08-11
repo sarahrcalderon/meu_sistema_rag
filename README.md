@@ -13,12 +13,12 @@ Sistema de Chat com Documentos usando **RAG (Retrieval-Augmented Generation)** c
 
 ###  Objetivos do Projeto
 
-- ✅ Demonstrar conhecimentos em **Python para IA e Ciência de Dados**
-- ✅ Implementar **RAG** com banco de dados **vetorial** e **SQL**
-- ✅ Integrar com **APIs** usando **FastAPI**
-- ✅ Utilizar **IA Generativa** com **Prompt Engineering** (Chain-of-Thought e Few-Shot)
-- ✅ Criar uma interface amigável com **Streamlit**
-- ✅ Manter tudo **100% gratuito e local**
+-  Demonstrar conhecimentos em **Python para IA e Ciência de Dados**
+-  Implementar **RAG** com banco de dados **vetorial** e **SQL**
+-  Integrar com **APIs** usando **FastAPI**
+-  Utilizar **IA Generativa** com **Prompt Engineering** (Chain-of-Thought e Few-Shot)
+-  Criar uma interface amigável com **Streamlit**
+-  Manter tudo **100% gratuito e local**
 
 ###  Requisitos Atendidos
 
